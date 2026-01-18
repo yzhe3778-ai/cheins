@@ -1,0 +1,22 @@
+{
+  "beijing": ["peking-duck", "dumplings", "mapo-tofu"],
+  "shanghai": ["mapo-tofu", "dumplings", "peking-duck"],
+  "xian": ["dumplings", "hand-pulled-noodles", "hot-pot"],
+  "chengdu": ["hot-pot", "mapo-tofu", "dumplings"],
+  "guangzhou": ["dim-sum", "dumplings", "hot-pot"],
+  "shenzhen": ["dim-sum", "hot-pot", "dumplings"],
+  "hangzhou": ["dumplings", "mapo-tofu", "hand-pulled-noodles"],
+  "suzhou": ["dumplings", "hand-pulled-noodles", "peking-duck"],
+  "nanjing": ["peking-duck", "dumplings", "hot-pot"],
+  "wuhan": ["hot-pot", "hand-pulled-noodles", "dumplings"],
+  "chongqing": ["hot-pot", "mapo-tofu", "dumplings"],
+  "tianjin": ["peking-duck", "dumplings", "mapo-tofu"],
+  "harbin": ["dumplings", "hand-pulled-noodles", "hot-pot"],
+  "qingdao": ["dumplings", "hand-pulled-noodles", "peking-duck"],
+  "xiamen": ["dim-sum", "dumplings", "hot-pot"],
+  "kunming": ["hand-pulled-noodles", "hot-pot", "dumplings"],
+  "lijiang": ["hand-pulled-noodles", "dumplings", "hot-pot"],
+  "sanya": ["dim-sum", "dumplings", "hot-pot"],
+  "urumqi": ["hand-pulled-noodles", "dumplings", "hot-pot"],
+  "lanzhou": ["hand-pulled-noodles", "dumplings", "hot-pot"]
+}

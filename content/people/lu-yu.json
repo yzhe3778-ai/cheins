@@ -1,0 +1,7 @@
+{
+  "person": "Lu Yu",
+  "slug": "lu-yu",
+  "description": "Tea scholar and author of The Classic of Tea, defining Chinese tea culture.",
+  "associated_cities": ["hangzhou", "suzhou"],
+  "culture_links": ["tea-culture", "feng-shui"]
+}

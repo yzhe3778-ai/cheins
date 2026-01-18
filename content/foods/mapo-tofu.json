@@ -1,0 +1,12 @@
+{
+  "food": "Mapo Tofu",
+  "slug": "mapo-tofu",
+  "description": "Silken tofu cooked in a spicy, numbing Sichuan chili-bean sauce.",
+  "popular_cities": ["chengdu", "chongqing", "shanghai", "beijing"],
+  "faq": [
+    {
+      "question": "What does mapo mean?",
+      "answer": "It refers to the original creator, a pockmarked woman who ran the dish’s first shop."
+    }
+  ]
+}
