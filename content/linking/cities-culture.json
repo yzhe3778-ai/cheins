@@ -1,0 +1,22 @@
+{
+  "beijing": ["chinese-new-year", "feng-shui"],
+  "shanghai": ["chinese-new-year", "tea-culture"],
+  "xian": ["chinese-new-year", "feng-shui"],
+  "chengdu": ["tea-culture", "dragon-boat-festival"],
+  "guangzhou": ["chinese-new-year", "dragon-boat-festival"],
+  "shenzhen": ["tea-culture", "dragon-boat-festival"],
+  "hangzhou": ["tea-culture", "dragon-boat-festival"],
+  "suzhou": ["tea-culture", "feng-shui"],
+  "nanjing": ["feng-shui", "chinese-new-year"],
+  "wuhan": ["dragon-boat-festival", "chinese-new-year"],
+  "chongqing": ["tea-culture", "dragon-boat-festival"],
+  "tianjin": ["chinese-new-year", "feng-shui"],
+  "harbin": ["chinese-new-year", "tea-culture"],
+  "qingdao": ["tea-culture", "feng-shui"],
+  "xiamen": ["dragon-boat-festival", "tea-culture"],
+  "kunming": ["tea-culture", "feng-shui"],
+  "lijiang": ["tea-culture", "feng-shui"],
+  "sanya": ["dragon-boat-festival", "tea-culture"],
+  "urumqi": ["tea-culture", "feng-shui"],
+  "lanzhou": ["tea-culture", "feng-shui"]
+}

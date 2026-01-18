@@ -1,0 +1,12 @@
+{
+  "food": "Peking Duck",
+  "slug": "peking-duck",
+  "description": "Crispy roasted duck served with thin pancakes, scallions, and sweet bean sauce.",
+  "popular_cities": ["beijing", "tianjin", "shanghai", "nanjing"],
+  "faq": [
+    {
+      "question": "Why is Peking Duck famous?",
+      "answer": "It represents imperial-era roasting techniques and is iconic to Beijing dining culture."
+    }
+  ]
+}

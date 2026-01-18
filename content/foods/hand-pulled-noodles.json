@@ -1,0 +1,12 @@
+{
+  "food": "Hand-Pulled Noodles",
+  "slug": "hand-pulled-noodles",
+  "description": "Chewy wheat noodles stretched by hand, often served in fragrant beef broth.",
+  "popular_cities": ["xian", "lanzhou", "urumqi", "kunming"],
+  "faq": [
+    {
+      "question": "Why are hand-pulled noodles famous in northwest China?",
+      "answer": "Wheat-based diets and Muslim culinary traditions shaped the technique."
+    }
+  ]
+}

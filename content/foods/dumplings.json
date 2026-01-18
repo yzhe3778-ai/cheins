@@ -1,0 +1,12 @@
+{
+  "food": "Dumplings",
+  "slug": "dumplings",
+  "description": "Boiled or pan-fried parcels filled with meat or vegetables, eaten across China.",
+  "popular_cities": ["beijing", "xian", "harbin", "qingdao"],
+  "faq": [
+    {
+      "question": "When do people eat dumplings in China?",
+      "answer": "They are especially popular during Lunar New Year and family gatherings."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "food": "Dim Sum",
+  "slug": "dim-sum",
+  "description": "Small Cantonese bites served with tea, ranging from dumplings to buns.",
+  "popular_cities": ["guangzhou", "shenzhen", "xiamen", "sanya"],
+  "faq": [
+    {
+      "question": "What is traditional dim sum service?",
+      "answer": "It is served in small baskets meant for sharing during tea time."
+    }
+  ]
+}

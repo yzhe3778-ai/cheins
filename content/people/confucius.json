@@ -1,0 +1,7 @@
+{
+  "person": "Confucius",
+  "slug": "confucius",
+  "description": "Philosopher whose teachings shaped ethics, education, and governance in China.",
+  "associated_cities": ["beijing", "xian", "nanjing"],
+  "culture_links": ["chinese-new-year", "feng-shui"]
+}

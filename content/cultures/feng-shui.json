@@ -1,0 +1,7 @@
+{
+  "topic": "Feng Shui",
+  "slug": "feng-shui",
+  "description": "A system of spatial harmony that guides architecture, city planning, and daily life.",
+  "related_cities": ["beijing", "nanjing", "xian", "hangzhou"],
+  "associated_people": ["confucius", "lu-yu"]
+}

@@ -1,0 +1,75 @@
+{
+  "city": "Xiamen",
+  "slug": "xiamen",
+  "summary": "Xiamen is a gateway to China’s history, modern life, and regional flavor.",
+  "why_visit": [
+    "Discover layered history alongside modern skylines.",
+    "Experience signature regional food and markets.",
+    "Use the city as a base for nearby cultural excursions."
+  ],
+  "things_to_do": [
+    "Walk through historic districts and city parks.",
+    "Visit key museums for context and artifacts.",
+    "Sample street food in major night markets."
+  ],
+  "attractions": [
+    "Historic core landmarks",
+    "Signature waterfront or skyline viewpoints",
+    "Major cultural museum or temple"
+  ],
+  "local_foods": ["dumplings", "hot-pot", "mapo-tofu", "peking-duck"],
+  "culture_links": ["chinese-new-year", "tea-culture", "feng-shui"],
+  "people_links": ["confucius", "empress-cixi", "jack-ma"],
+  "faq": [
+    {
+      "question": "What is the best time to visit Xiamen?",
+      "answer": "Spring and autumn offer the most comfortable weather and clear skies."
+    },
+    {
+      "question": "How many days should I plan for Xiamen?",
+      "answer": "Two to three days covers the main sights with time for food and culture."
+    }
+  ],
+  "media": {
+    "hero": {
+      "src": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1400&q=80",
+      "alt": "Xiamen skyline at sunset",
+      "license": "Unsplash License",
+      "author": "Mira Bo",
+      "source_url": "https://unsplash.com/photos/7mUXaBBrhoA"
+    },
+    "gallery": [
+  {
+    "src": "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=900&q=80",
+    "alt": "Historic architecture and city skyline",
+    "license": "Unsplash License",
+    "author": "Rui Silvestre",
+    "source_url": "https://unsplash.com/photos/86wN5Kr2_8M"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=900&q=80",
+    "alt": "Local market food and street life",
+    "license": "Unsplash License",
+    "author": "Smitty",
+    "source_url": "https://unsplash.com/photos/0sDZ3K8Jiqs"
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+    "alt": "Night lights along the river",
+    "license": "Unsplash License",
+    "author": "Avi Werde",
+    "source_url": "https://unsplash.com/photos/6I2Hfll_sGQ"
+  }
+],
+    "videos": [
+  {
+    "title": "A quick look at the city",
+    "embed_url": "https://www.youtube.com/embed/5qap5aO4i9A",
+    "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+    "license": "Unsplash License",
+    "author": "Nasa",
+    "source_url": "https://unsplash.com/photos/Q1p7bh3SHj8"
+  }
+]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "food": "Hot Pot",
+  "slug": "hot-pot",
+  "description": "A communal simmering broth where diners cook meats, vegetables, and noodles together.",
+  "popular_cities": ["chengdu", "chongqing", "wuhan", "shenzhen"],
+  "faq": [
+    {
+      "question": "What makes Sichuan hot pot unique?",
+      "answer": "It is known for numbing Sichuan peppercorns and bold chili flavors."
+    }
+  ]
+}
